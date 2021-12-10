@@ -1,0 +1,13 @@
+body{
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+h3{
+    font-size: 25px !important;
+}
+
+canvas{
+    margin-top: 50px;
+}
